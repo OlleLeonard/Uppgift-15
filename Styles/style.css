@@ -1,0 +1,15 @@
+.bild {
+  width: 100px;
+  height: 400px;
+}
+
+button {
+  color: black;
+  background-color: black;
+}
+
+.container {
+  background-color: black;
+  width: 1000px;
+  height: auto;
+}
