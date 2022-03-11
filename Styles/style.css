@@ -1,15 +1,17 @@
 .bild {
-  width: 100px;
   height: 400px;
 }
 
-button {
-  color: black;
-  background-color: black;
+.carousel-control-next-icon {
+  background-color: red;
 }
 
-.container {
-  background-color: black;
-  width: 1000px;
-  height: auto;
+.carousel .carousel-indicators li.active {
+  background-color: blue;
+}
+
+.button-text {
+  position: absolute;
+  right: 150px;
+  top: 440px;
 }
